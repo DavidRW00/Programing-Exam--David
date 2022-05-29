@@ -1,4 +1,4 @@
-In order to press the play button without errors and run til application in Unity, all gyroscope elements must be disabled and 3 packages are required.
+In order to press the play button without errors and run til application in Unity, 3 packages are required:
  
 Package Manager:
     
