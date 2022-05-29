@@ -1,6 +1,7 @@
-# In order to press the play button without errors and run til application in Unity, all gyroscope elements must be disabled and 3 packages are required.
+In order to press the play button without errors and run til application in Unity, all gyroscope elements must be disabled and 3 packages are required.
  
 Package Manager:
+    
     -Vector Graphics 2.0.0
 In order to see the svg. files in Unity (add com.unity.vectorgraphics)
  
